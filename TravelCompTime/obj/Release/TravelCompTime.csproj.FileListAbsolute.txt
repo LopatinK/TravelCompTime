@@ -1,0 +1,6 @@
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll.config
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.pdb
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Release\TravelCompTime.dll
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Release\TravelCompTime.pdb
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Release\TravelCompTime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll.config
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.pdb
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.csprojResolveAssemblyReference.cache
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.dll
+c:\users\klopatin.ususaid\documents\visual studio 2015\Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.pdb
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll.config
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll
+D:\VS Projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.pdb
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.dll
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.pdb
+D:\VS Projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.csprojResolveAssemblyReference.cache
+C:\VS projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll.config
+C:\VS projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.dll
+C:\VS projects\TravelCompTime\TravelCompTime\bin\TravelCompTime.pdb
+C:\VS projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.csprojResolveAssemblyReference.cache
+C:\VS projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.dll
+C:\VS projects\TravelCompTime\TravelCompTime\obj\Debug\TravelCompTime.pdb
